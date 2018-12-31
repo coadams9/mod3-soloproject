@@ -1,0 +1,11 @@
+#main_title {
+  display: flex;
+  justify-content: center;
+  color: blue;
+  border: grey solid 1px;
+  padding: 1rem;
+  width: auto;
+  height: auto;
+  margin: 1rem 2rem;
+  box-shadow: 10px 4px 
+}
